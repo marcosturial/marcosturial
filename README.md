@@ -11,7 +11,7 @@
 <!-- <hr> -->
 <br/>
 
-### Languages and Tools
+## Languages and Tools
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="60">
@@ -30,5 +30,5 @@
 <br/>
 
 
-### You can find me here
+## You can find me here
 [<img height="60" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/marcosturial/)
